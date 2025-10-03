@@ -8,8 +8,7 @@ A repository containing a Library Management System built in Python, intended to
 
 ```text
 Library-Management/
-├── Bank project/                 # (Optional) Bank management module (can be removed)
-│   ├── … (bank module files)
+|
 │
 ├── Library/                      # Core library management system
 │   ├── DBHelper.py
@@ -35,5 +34,6 @@ Return books / handle book returns
 Track number of books issued per member
 
 (Optional) Bank module for financial operations — can be removed or kept parallel
+
 
 
